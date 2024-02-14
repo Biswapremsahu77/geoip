@@ -13,3 +13,33 @@
 /server/geojson-data/indian_villages_boundaries.zip/tamil_nadu/** filter=lfs diff=lfs merge=lfs -text
 =======
 >>>>>>> 3537b6f (formatted the .gitattribute file)
+server/geojson-data/indian_villages_boundaries.zip/odisha/BHADRAK.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/KANDHAMAL.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/NABARANGAPUR.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/NUAPARHA.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/SAMBALPUR.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/KHORDHA.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/BARAGARH.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/BOLANGIR[[:space:]](BALANGIR).zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/CUTTACK.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/GANJAM.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/JAGATSINGHPUR.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/ANUGUL.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/JAJAPUR.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/MALKANGIRI.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/BAUDH[[:space:]](BAUDA.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/SUBARNAPUR.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/JHARSUGUDA.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/MAYURBHANJ.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/NAYAGARH.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/RAYAGARHA.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/KEONJHAR[[:space:]](KENDUJHAR).zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/KORAPUT.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/PURI.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/DEOGARH.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/DHENKANAL.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/GAJAPATI.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/KALAHANDI.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/KENDRAPARHA.zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/BALASORE[[:space:]](BALESHWAR).zip filter=lfs diff=lfs merge=lfs -text
+server/geojson-data/indian_villages_boundaries.zip/odisha/SUNDARGARH.zip filter=lfs diff=lfs merge=lfs -text
